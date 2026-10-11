@@ -1,0 +1,10 @@
+{
+  "q_id": "example-task",
+  "course": "Example",
+  "question_type": "ShortAns",
+  "guideline": "Illustrative only: award credit for each independently correct answer point, retain valid partial credit, and do not count repeated points twice. Replace this text with your task's actual grading rubric.",
+  "errors": [
+    {"name": "Incorrect concept", "description": "An answer point contradicts the reference concept."},
+    {"name": "Incomplete answer", "description": "A required answer point or explanation is missing."}
+  ]
+}
