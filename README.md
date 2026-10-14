@@ -2,6 +2,8 @@
 
 **TeachGrade: Training-Free Short Answer Scoring with Teacher Evidence**
 
+[Paper (arXiv:2610.14900)](https://arxiv.org/abs/2610.14900)
+
 Jinhao Yan, Zhihong Shen, Shengjie Wang, Yiting Ren, Wentao Zhang, Yilei Wang,
 and Peichao Lai
 
